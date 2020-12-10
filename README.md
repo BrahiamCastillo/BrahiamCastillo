@@ -1,9 +1,8 @@
 ### Hi, I am Brahiam, at present I am just a boy who knows nothing about life but still eager to learn, especially programming and all that it entails!!!. 👋
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=BrahiamCastillo&theme=onedark)](https://github.com/BrahiamCastillo/github-profile-trophy)
 <html>
 <body>
-    
-    [![trophy](https://github-profile-trophy.vercel.app/?username=BrahiamCastillo&theme=onedark)](https://github.com/BrahiamCastillo/github-profile-trophy)
     - 🔭 I’m currently working on:
     <menu>
         <li style="margin-left: 10px;">Prueba1</li>
