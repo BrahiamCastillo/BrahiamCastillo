@@ -11,7 +11,7 @@
    
  - 📫 How to reach me: <strong>mymoviehb@gmail.com</strong>
    
- - ⚡ Fun fact: <strong>I love the seafood</strong>
+ - ⚡ Fun fact: <strong>I usually sleep in the forest surrounded by bulls LMAO!</strong>
 
 </body>
 </html>
