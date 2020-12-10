@@ -22,7 +22,7 @@
   
 <a href="https://www.instagram.com/brahiiaam_c/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-Contact%20me-brightgreen?logo=instagram&style=for-the-badge" alt="@brahiiaam_c" /></a>
 
-<a href="https://wa.me/qr/8297208598" target="_blank"><img align="center" src="https://img.shields.io/badge/Whatsapp-Contact%20me-brightgreen?logo=whatsapp&style=for-the-badge" alt="Brahiam Castillo Contact WSP" /></a>
+<a href="https://api.whatsapp.com/send?phone=18297208598&text=%C2%A1Hola%20buenas,%20Brahiam%20Castillo%20para%20servirles!" target="_blank"><img align="center" src="https://img.shields.io/badge/Whatsapp-Contact%20me-brightgreen?logo=whatsapp&style=for-the-badge" alt="Brahiam Castillo Contact WSP" /></a>
 
 <a href="https://t.me/BrahiamC" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-Contact%20me-brightgreen?logo=telegram&style=for-the-badge" alt="@BrahiamC" /></a>
  
