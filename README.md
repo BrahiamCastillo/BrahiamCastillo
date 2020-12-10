@@ -1,6 +1,21 @@
 ### Hi, I am Brahiam, at present I am just a boy who knows nothing about life but still eager to learn, especially programming and all that it entails!!!. 👋
 
-<!DOCTYPE html>
+<style>
+    body {
+    background-image: url("images/fondo.jpg");
+    background-attachment: fixed;
+}
+
+.list {
+    margin-top: 8px;
+    font-size: 12px;
+    font-style: italic;
+}
+
+p {
+    color: rgb(180, 138, 145);
+}
+</style>
 
 <body>
     <link rel="stylesheet" href="folders\css\bootstrap\bootstrap.min.css">
@@ -20,5 +35,4 @@
     <p>- ⚡ Fun fact: ...</p>
 </body>
 
-</html>
 
