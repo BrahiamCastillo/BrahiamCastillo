@@ -4,7 +4,7 @@
 <body>
     - 🔭 I’m currently working on:
     <menu>
-        <li>Prueba1</li>
+        <li style="margin-left: 10px;">Prueba1</li>
         <br>
         <li>Prueba2</li>
     </menu>
