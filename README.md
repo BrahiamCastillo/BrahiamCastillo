@@ -3,9 +3,9 @@
 
     - 🔭 I’m currently working on:
     <menu>
-        <li class="btn btn-danger list">Prueba1</li>
+        <li>Prueba1</li>
         <br>
-        <li class="btn btn-danger list">Prueba2</li>
+        <li>Prueba2</li>
     </menu>
     
     - 🌱 I’m currently learning ...
