@@ -5,19 +5,13 @@
 <body>
  - 🔭 I’m currently working on <strong>PHP's Elections systems</strong>
     
-   - 🌱 I’m currently learning  <strong>Laravel and React</strong>
+ - 🌱 I’m currently learning  <strong>Laravel and React</strong>
    
-   - 👯 I’m looking to collaborate on ...
+ - 💬 Ask me about <strong>PHP and Java</strong>
    
-   - 🤔 I’m looking for help with ...
+ - 📫 How to reach me: <strong>mymoviehb@gmail.com</strong>
    
-   - 💬 Ask me about ...
-   
-   - 📫 How to reach me: ...
-   
-   - 😄 Pronouns: ...
-   
-   - ⚡ Fun fact: ...
+ - ⚡ Fun fact: <strong>I love the seafood</strong>
 
 </body>
 </html>
