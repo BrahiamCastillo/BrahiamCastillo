@@ -1,0 +1,14 @@
+body {
+    background-image: url("images/fondo.jpg");
+    background-attachment: fixed;
+}
+
+.list {
+    margin-top: 8px;
+    font-size: 12px;
+    font-style: italic;
+}
+
+p {
+    color: rgb(180, 138, 145);
+}
