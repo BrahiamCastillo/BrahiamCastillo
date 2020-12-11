@@ -8,7 +8,7 @@
  
  - 🔭 I’m currently working on <strong>PHP's Elections systems</strong>
     
- - 🌱 I’m currently learning  <strong>Laravel and React</strong>
+ - 🌱 I’m currently learning  <strong>Laravel and ASP.NET</strong>
    
  - 💬 Ask me about <strong>PHP and Java</strong>
    
