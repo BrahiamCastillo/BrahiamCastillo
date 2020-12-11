@@ -1,4 +1,4 @@
-### Hi, I am Brahiam, at present I am just a boy who knows nothing about life but still eager to learn, especially programming and all that it entails!!!. 👋
+### Hi, I am Brahiam, at present I am just a boy who don't knows about life but still eager to learn, especially programming and all that it entails!!!. 👋
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=BrahiamCastillo&theme=onedark)](https://github.com/BrahiamCastillo/github-profile-trophy)
  
